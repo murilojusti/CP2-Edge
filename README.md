@@ -24,3 +24,6 @@ Compile e faça o upload do código para o Arduino.
 Certifique-se de que os sensores estão corretamente calibrados e ajustados conforme as necessidades do ambiente de monitoramento.
 Contribuições e Melhorias
 Contribuições para melhorias deste projeto são bem-vindas. Sinta-se à vontade para enviar pull requests com correções de bugs, otimizações de código ou novos recursos.
+
+
+![image](https://github.com/murilojusti/CP2-Edge/assets/163534308/74dd96ec-4263-44c5-8f2c-0f3fe3624014)
